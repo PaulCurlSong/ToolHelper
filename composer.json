@@ -1,0 +1,19 @@
+{
+    "name": "flatterer/flatterer",
+    "description": "help function",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Flatterer\\Flatterer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "宋明屿",
+            "email": "ben.song@goldentec.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.18"
+    }
+}
