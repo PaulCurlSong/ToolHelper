@@ -1,4 +1,5 @@
 {
+    "license": "MIT",
     "name": "flatterer/flatterer",
     "description": "help function",
     "type": "composer-plugin",
