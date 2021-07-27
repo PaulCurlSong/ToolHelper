@@ -2,7 +2,7 @@
     "license": "MIT",
     "name": "flatterer/flatterer",
     "description": "help function",
-    "type": "composer-plugin",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Flatterer\\Flatterer\\": "src/"
